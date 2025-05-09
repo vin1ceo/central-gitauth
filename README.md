@@ -1,2 +1,2 @@
 # central-gitauth
-Repositório de testes de autenticação
+Repositório de testes de autenticação.
